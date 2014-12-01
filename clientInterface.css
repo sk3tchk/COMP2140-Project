@@ -1,0 +1,223 @@
+.form{
+	margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background-color: #b0e0e6;
+}
+tr{
+	display: table-row;
+	vertical-align: inherit;
+	border-color: inherit;
+}
+.labelField{
+	width: auto;
+	padding-left: none;
+	text-align: left;
+	vertical-align: top;
+	background-color: transparent;
+	font-size: none;
+	border-top: none;
+	border-bottom: none;
+
+}
+.inputFeild{
+
+}
+tbody{
+	display: table-row-group;
+	vertical-align: middle;
+	border-color: inherit;
+	display: table;
+	border-collapse: separate;
+	border-spacing: 2px;
+	border-color: gray;
+}
+td{
+	margin: 1% 1%;
+	padding: 2% 2%; 
+}
+.container {
+position: relative;
+height:700px;
+width: 940px;
+margin: 0px auto;
+padding: 0px;
+background-color:#990000;
+border-radius: 9px;
+
+}
+.form-bg {
+width: 380px;
+height: auto;
+border-radius: 9px;
+margin: 150px auto 0px;
+padding: 8px 0px 0px 8px;
+background-color: white;
+position: relative;
+overflow:auto;
+top:33%;left:0%;;
+}
+.form-bg2 {
+width: 380px;
+height: auto;
+border-radius: 9px;
+margin: 150px auto 0px;
+padding: 8px 0px 0px 8px;
+background-color: white;
+position: relative;
+top:28%;left:0%;;
+}
+
+body{
+	background-image: url("bg.jpg");
+}
+.bannertest {
+background-color: white;
+height: 150px;
+width: 920px;
+position: absolute;
+top: 4%;
+left: 1%;
+border-radius: 9px;
+}
+.leftside{
+	background-color:white;
+	height:400px;
+	width:250px;
+	position: absolute;
+	top:28%;left:2%;
+	border-radius: 9px;
+}
+.leftside2 {
+background-color: white;
+height: 400px;
+width: 250px;
+position: absolute;
+top: 53%;
+left: 16%;
+border-radius: 9px;
+}
+.leftside3 {
+background-color: white;
+height: 400px;
+width: 250px;
+position: absolute;
+top: 0%;
+left: -68%;
+border-radius: 9px;
+}
+.leftside4 {
+background-color: white;
+height: 400px;
+width: 250px;
+position: absolute;
+top: 78%;
+left: 8%;
+border-radius: 9px;
+}
+.rightside{
+	background-color:white;
+	height:400px;
+	width:250px;
+	position: absolute;
+	top:28%;right:1.5%;
+	border-radius: 9px;
+}
+.rightside2 {
+background-color: white;
+height: 400px;
+width: 250px;
+position: absolute;
+top: 53%;
+right: 16%;
+border-radius: 9px;
+}
+.rightside3 {
+background-color: white;
+height: 400px;
+width: 250px;
+position: absolute;
+top: 0%;
+right: -68.5%;
+border-radius: 9px;
+}
+.rightside4 {
+background-color: white;
+height: 400px;
+width: 250px;
+position: absolute;
+top: 78%;
+right: 8%;
+border-radius: 9px;
+}
+input.Create{
+
+	width: 15em;
+	height: 2em;
+	margin:0% 0% 0% 9%;
+
+}
+input.View{
+
+	width: 15em; 
+	height: 2em;
+	margin:0% 0% 0% 9%;
+	
+
+}
+input.Update{
+	width: 15em;  
+	height: 2em;
+	margin:0% 0% 0% 9%;
+}
+input.logOut{
+	width: 15em;  
+	height: 2em;
+	margin:0% 0% 0% 9%;
+}
+.innerleftside{
+	position: relative;
+	margin: 2% 2%;
+	padding:2% 2%;
+}
+.banner{
+	background-color:white;
+	height:150px;
+	width:920px;
+	position: absolute;
+	top:-45%;left:-266%;
+	border-radius: 9px;
+}
+.bannerTitle{
+	position:relative;
+	top:-160px;left:220px;
+}
+
+img{
+	height: 150px;
+	width: 150px;
+}
+.test{
+	margin:2% 2%;
+	padding:2% 2%;
+}
+.resultsForm{
+	margin:0 auto;
+	width: 98%;
+	display: table;
+	border-collapse: collapse;
+	border-color:black;
+	border-style:solid;
+	border-width: 1px;
+}
+.resultsForm th, .resultsForm td {
+	border-color: black;
+	border-style:solid;
+	border-width: 1px;
+	padding: 5px;
+}
+.resultsForm th{
+	background-color: gray;
+}
+.test{
+}
